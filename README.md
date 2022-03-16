@@ -11,3 +11,7 @@ Hello World. My name is Ji-ye Kim. Nice to meet you.
 2. MIP6 Italy 
 3. SM12 UK IR submit
 4. IAP request
+
+## Jisoo Introduction
+Jisoo Is pretty
+Jisoo Is perfect
