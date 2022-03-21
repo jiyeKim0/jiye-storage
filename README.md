@@ -56,3 +56,8 @@ This is a second paragraph :
 	This is a second code block.
 
 end second code block.
+
+```py
+name = input("이름을 입력해주세요 : ")
+print("지금 접속한 {name}님 환영합니다!")
+```
