@@ -4,11 +4,14 @@ Hello World. My name is Ji-ye Kim. Nice to meet you.
 ## Overview
 
 ## Progress
-| week |  date  |   x   |           table           |   |
-|:----:|:------:|:-----:|:-------------------------:|:-:|
-|   1  | Mar.21 | git 1 |     markdown practice     |   |
-|      | Mar.22 | git 2 | a. help b. Linux terminal |   |
-|   2  |        |       |                           |   |
+| Week |  Date  |   T / P  |           Content           |   |
+|:----:|:------:|:--------:|:---------------------------:|:-:|
+|   1  | Mar.21 |  Theory  |      markdown practice      |   |
+|      | Mar.22 |     T    | a. help b. Linux terminal   |   |
+|      | Mar.27 | Practice | w3school - python_variables |   |
+|   2  | Mar.   |          |                             |   |
+|   2  | Mar.   |          |                             |   |
+
 
 ### TODO
 - [x] Mark down 공부하기
